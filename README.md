@@ -1,16 +1,17 @@
-## Hi there 👋
+<img width="583" height="325" alt="Снимок экрана 2026-06-28 183744" src="https://github.com/user-attachments/assets/e869a977-c929-421e-a244-91362f900722" />
 
-<!--
-**zhukov-website/zhukov-website** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я веб-разработчик! 🚀
 
-Here are some ideas to get you started:
+Здесь вы можете найти мои проекты и примеры кода. Я создаю современные, быстрые и удобные сайты.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек технологий
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Инструменты:** Git, GitHub
+
+## 📬 Связаться со мной
+* **Email:** zhukov.website@rambler.ru
+* **Telegram:** https://t.me/Zhukov_Georgii
+
+---
+### 🖥️ Моё портфолио (Сайты на хостинге)
+* 🌐 [Имя Проекта 1](ссылка_на_сайт_1) 
